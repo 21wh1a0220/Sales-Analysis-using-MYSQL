@@ -1,14 +1,14 @@
 # Sales Analysis using MYSQL.
 # 📌 Objective
 - To perform comprehensive sales analysis on a company's dataset to extract actionable business insights using SQL queries.
-# Tools Used
+# 🔧 Tools Used
 - 🛠️ SQL (Structured Query Language)
 - 🗄️MySQL (or any compatible RDBMS)
-# Steps Included
+# 🧱 Steps Included
 - 🗃️ Created database and accessed the Sales table.
 - 🔍 Applied filtering, aggregation, pattern matching, and ranking queries.
 - 📈Performed both basic and advanced SQL operations (e.g., RANK(), LIKE, GROUP BY).
-# Analysis Included
+# 📊 Analysis Included
 - 🚚 Filtered orders with 'Economy' shipping and high total amounts (> ₹25,000).  
 - 🌍 Retrieved technology sales in Ireland after 2020.  
 - 💰 Identified top 10 most profitable transactions.  
@@ -18,7 +18,7 @@
 - 🧾 Calculated revenue, average unit cost, and total order count.  
 - 🔢 Counted unique regions and order frequency by customer.  
 - 🥇 Ranked products based on total sales using SQL ranking functions.
-# Key Insights
+# 💡 Key Insights
 - 💸 Significant sales made via economy shipping.  
 - 🇮🇪 Ireland’s technology category showed growth post-2020.  
 - 🌆 Sales are concentrated in a few top cities.  
