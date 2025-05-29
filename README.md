@@ -1,5 +1,5 @@
 # Sales Analysis using MYSQL.
-# Objective:
+# Objective
 - To perform comprehensive sales analysis on a company's dataset to extract actionable business insights using SQL queries.
 # Tools Used
 - SQL (Structured Query Language)
